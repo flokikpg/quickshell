@@ -1,2 +1,2 @@
 # quickshell
-QS 2026
+QS Configs
